@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Varshasree 👋
 
-<!--
-**varshasreeballa/varshasreeballa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Data Science Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Learning Python and SQL
+- 📊 Interested in Data Science and Data Analysis
+- 💻 Building beginner-friendly projects
+- 🎯 Goal: To become a Data Science professional
+
+## Skills
+
+- Python (Beginner)
+- SQL (Learning)
+- HTML & CSS (Basics)
+- Java(Learning)
+
+## Projects
+
+- Python Mini Projects
+- Student Performance Analysis (Planned)
+
+Thanks for visiting my profile! 😊
+
